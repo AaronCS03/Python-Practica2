@@ -9,7 +9,7 @@ En lugar de depender de herramientas externas, este sistema permite ingresar dir
 Descripción del programa
 
 
-Este programa está diseñado pensando en personas como Camila y Diego, profesionales que viajan mensualmente a diferentes países. Con solo dos datos —su presupuesto y la tasa de cambio local— pueden calcular cuánto dinero tendrán disponible en la moneda del país al que viajan.
+Este programa está diseñado pensando en personas como Camila y Diego, profesionales que viajan mensualmente a diferentes países. Con solo dos datos su presupuesto y la tasa de cambio local pueden calcular cuánto dinero tendrán disponible en la moneda del país al que viajan.
 
 
 
